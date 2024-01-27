@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sc-gLLuof.hFlVyB.rec.rec-dot.rec.rec-dot_active {
+  box-shadow: 0 0 1px 3px #34caa5;
+  background-color: black;
+}
